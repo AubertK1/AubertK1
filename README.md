@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello! 👋
+
+Visit my portfolio: https://sites.google.com/view/aubert-kamdem-portfolio/home
 
 [![Aubert Kamdem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aubertk1)](https://github.com/anuraghazra/github-readme-stats)
 
